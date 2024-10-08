@@ -1,2 +1,2 @@
 # langGraph
-Simple use cases that guides to use Lang Graph efficiently
+Simple use cases that guide to use LangGraph efficiently
